@@ -150,7 +150,7 @@ body {
 /* tablet version */
 
 
-    @media only screen and (max-width: 950px) {
+    @media only screen and (max-width: 1364px) {
     body {
       background-image: url('images/bg-desktop.svg');
       width: 100%;
